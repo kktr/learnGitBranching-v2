@@ -8,4 +8,6 @@ Section Main
 
 Introduction Sequence
 
-2: Branching in Git
+2: Branching in Git - starter
+
+C0
