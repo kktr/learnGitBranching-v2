@@ -7,3 +7,5 @@ https://learngitbranching.js.org/
 Section Main
 
 Introduction Sequence
+
+1: Introduction to Git Commits
