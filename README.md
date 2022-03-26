@@ -8,4 +8,6 @@ Section Main
 
 Introduction Sequence
 
-1: Introduction to Git Commits
+1: Introduction to Git Commits - starter
+
+C0
