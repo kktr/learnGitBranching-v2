@@ -12,3 +12,7 @@ Introduction Sequence
 
 C0
 C1
+
+C2
+git add .
+git commit -m "C2"
