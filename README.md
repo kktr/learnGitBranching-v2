@@ -7,3 +7,7 @@ https://learngitbranching.js.org/
 Section Main
 
 Introduction Sequence
+
+3: Merging in Git - final
+
+C0
