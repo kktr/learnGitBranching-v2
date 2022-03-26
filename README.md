@@ -7,3 +7,5 @@ https://learngitbranching.js.org/
 Section Main
 
 Introduction Sequence
+
+2: Branching in Git
