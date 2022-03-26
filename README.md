@@ -16,3 +16,7 @@ C1
 C2
 git add .
 git commit -m "C2"
+
+C3
+git add .
+git commit -m "C3"
