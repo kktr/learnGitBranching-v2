@@ -12,3 +12,6 @@ Introduction Sequence
 
 C0
 C1
+
+git checkout -b section-main-introduction-3-final-bugFix
+C2
