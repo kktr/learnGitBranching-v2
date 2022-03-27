@@ -1,3 +1,3 @@
-function pirejro(value: string) {
+export function pirejro(value: string) {
   return `pirejro ${value}`;
 }
