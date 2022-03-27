@@ -1,0 +1,3 @@
+function mostDumbEver(): void {
+  return;
+}
