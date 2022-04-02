@@ -24,3 +24,23 @@ function LetterC({}: Props) {
     </div>
   );
 }
+
+type PropsC1 = {
+  abc: string[];
+};
+
+function c1({ abc }: PropsC1): void {
+  const displayName = (abc) => {
+    return abc.map((aa: any) => {
+      return <LetterC />;
+    });
+  };
+
+  return <DisplayName displayName={displayName} />;
+}
+
+export default c1;
+
+function DisplayName({ displayName }) {
+  return <div>{displayName}</div>;
+}
