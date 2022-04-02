@@ -1,1 +1,3 @@
-function monsterDumb() {}
+function monsterDumb(a) {
+  console.log(a);
+}

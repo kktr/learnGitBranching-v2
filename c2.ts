@@ -1,5 +1,3 @@
-// c2
-
 function calcSumOfTwoNumbers(a, b) {
   return a + b;
 }
